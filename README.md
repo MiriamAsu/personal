@@ -1,46 +1,57 @@
-<!-- PROJECT LOGO -->
-<p align="end">
-	<img src="https://raw.githubusercontent.com/DafetiteOgaga/dafetite_logo/main/dafetite-ogaga-logo.png" alt="Dafetite Ogaga" width="100" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DafetiteOgaga/dafetite_logo/main/dafetite-ogaga-logo.png" alt="Miriam" width="120" />
 </p>
 
-<h1 align="center">
-  <code>personal</code> was auto-created using the <code>createRepo</code> command from 
-  <a href="https://github.com/DafetiteOgaga/custom_commands">Custom Commands</a> CLI
-</h1>
+<h1 align="center">Miriam — Portfolio</h1>
 
 <p align="center">
-  With Custom Commands CLI you can automate and simplify your daily tasks across Git, Django, React, Bash, and more.
-  <!-- <br />
-  <a href="#usage">View Demo</a>
-  ·
-  <a href="#installation">Installation</a>
-  ·
-  <a href="#contributing">Contribute</a>
-  ·
-  <a href="#license">License</a> -->
+  Frontend Developer & UI Designer building modern, accessible, and engaging web experiences.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Type-CLI-green.svg">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
-  <img src="https://img.shields.io/badge/Platform-Bash%20%7C%20Linux%20%7C%20Mac%20%7C%20GitBash-blue">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg">
+  <a href="https://miriam-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-D6A84F?style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/Vite-5-purple?style=for-the-badge&logo=vite">
+  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css">
+  <img src="https://img.shields.io/badge/Framer%20Motion-Animation-FF69B4?style=for-the-badge">
 </p>
 
 ---
 
+### 🚀 About
+Welcome to my personal portfolio!  
+This site is built with **React + Vite** to showcase my projects, skills, and approach to design.  
+I focus on clean UI, smooth animations, and responsive, accessible web experiences.
 
-**Custom Commands CLI** is a powerful collection of shell-based utilities that abstract repetitive command-line tasks into friendly, memorable shortcuts.
+### ✨ Features
+- **Animated Hero Section** with profile image and intro
+- **Projects Showcase** with live demos and code
+- **Fully Responsive** for mobile, tablet, and desktop
+- **Dark Theme** with gold accent `#D6A84F`
+- **Smooth Animations** powered by Framer Motion
+- **Contact Section** to get in touch
 
-Ideal for developers working with:
+### 🛠 Tech Stack
+- **Frontend**: React, Vite, Tailwind CSS
+- **Animation**: Framer Motion
+- **Icons**: Lucide React
+- **Deployment**: Vercel
 
-- ✅ Git (e.g., `push, pull, pushfile, gitignore, etc`)
-- ✅ Django (e.g., `startproject, startapp, runserver, etc`)
-- ✅ React / JS / Python
-- ✅ MySQL / MongoDB
-- ✅ C language compilation
-- ✅ And more...
+### 📸 Preview
+![Portfolio Hero](./public/images/hero-me.jpg)
+
+### 📂 Featured Projects
+| Project | Description | Tech | Link |
+| --- | --- | --- | --- |
+| [project-name-1] | Brief description of what this project does | React, Tailwind | [Live](link) |
+| [project-name-2] | Brief description of what this project does | Vite, API | [Live](link) |
+
+### 📬 Let's Connect
+I'm open to freelance work and collaborations!
+- **GitHub**: [@your-github-username](https://github.com/your-github-username)
+- **LinkedIn**: [Miriam](https://linkedin.com/in/your-linkedin)
+- **Email**: your.email@gmail.com
 
 ---
 
-###### *We Rise by Lifting Others.*
+<p align="center"><i>We Rise by Lifting Others.</i></p>
