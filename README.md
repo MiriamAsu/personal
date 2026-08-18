@@ -48,9 +48,8 @@ I focus on clean UI, smooth animations, and responsive, accessible web experienc
 
 ### 📬 Let's Connect
 I'm open to freelance work and collaborations!
-- **GitHub**: [@your-github-username](https://github.com/your-github-username)
-- **LinkedIn**: [Miriam](https://linkedin.com/in/your-linkedin)
-- **Email**: your.email@gmail.com
+- **GitHub**: [@your-github-username](https://github.com/MiriamAsu)
+- **Email**: mimidazzle14@gmail.com 
 
 ---
 
