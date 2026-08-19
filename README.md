@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://miriam-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-D6A84F?style=for-the-badge"></a>
+  <a href="https://personal-mea12.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-D6A84F?style=for-the-badge"></a>
   <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/Vite-5-purple?style=for-the-badge&logo=vite">
   <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css">
@@ -20,6 +20,7 @@
 
 ### 🚀 About
 Welcome to my personal portfolio!  
+**Live Site**: [https://personal-mea12.vercel.app](https://personal-mea12.vercel.app)  
 This site is built with **React + Vite** to showcase my projects, skills, and approach to design.  
 I focus on clean UI, smooth animations, and responsive, accessible web experiences.
 
@@ -43,12 +44,11 @@ I focus on clean UI, smooth animations, and responsive, accessible web experienc
 ### 📂 Featured Projects
 | Project | Description | Tech | Link |
 | --- | --- | --- | --- |
-| [project-name-1] | Brief description of what this project does | React, Tailwind | [Live](link) |
-| [project-name-2] | Brief description of what this project does | Vite, API | [Live](link) |
+| [Miriam Portfolio] | Personal portfolio with animations & dark theme | React, Vite, Tailwind | [Live](https://personal-mea12.vercel.app) |
 
 ### 📬 Let's Connect
 I'm open to freelance work and collaborations!
-- **GitHub**: [@your-github-username](https://github.com/MiriamAsu)
+- **GitHub**: [@MiriamAsu](https://github.com/MiriamAsu)
 - **Email**: mimidazzle14@gmail.com 
 
 ---
