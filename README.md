@@ -20,7 +20,7 @@
 
 ### 🚀 About
 Welcome to my personal portfolio!  
-**Live Site**: [https://personal-mea12.vercel.app](https://personal-mea12.vercel.app)  
+**Live Site**: [https://personal-mea12.vercel.app]
 This site is built with **React + Vite** to showcase my projects, skills, and approach to design.  
 I focus on clean UI, smooth animations, and responsive, accessible web experiences.
 
