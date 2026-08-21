@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const experience = [
   {
-    year: "2025 — Present",
+    year: "2024 — Present",
     role: "Frontend Developer",
     company: "Freelance",
     description:
@@ -16,7 +16,7 @@ const experience = [
       "Designed user interfaces and converted concepts into responsive frontend experiences.",
   },
   {
-    year: "2023 — 2024",
+    year: "2025 - 2026",
     role: "Frontend Developer",
     company: "Independent Projects",
     description:
